@@ -23,6 +23,6 @@ python tracker.py
 - Budget check
 - Final summary report
 
-## Author
+## Submitted by
 Md Muhsinul Islam
 Student Ostad - (Mastering Python Batch 8) - Module 1 Assignment
